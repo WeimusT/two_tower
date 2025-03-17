@@ -1,2 +1,3 @@
 *.amltmp
 notebooks/.ipynb_aml_checkpoints
+.env
